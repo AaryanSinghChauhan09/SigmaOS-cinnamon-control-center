@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_cinnamon_control_center"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_cinnamon_control_center"
+path = "src/lib.rs"
